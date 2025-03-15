@@ -111,5 +111,5 @@ This project is licensed under the **MIT License**.
 ---
 
 ## **📞 Contact & Support**
-- 🔗 GitHub Issues: [https://github.com/your-username/inventory-management/issues]
+- 🔗 GitHub Issues: [https://github.com/saatyarth0907/inventory-management/issues]
 
