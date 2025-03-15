@@ -1,4 +1,4 @@
-# **Automated Inventory Management System - DevOps Project**
+# **Inventory Management System - DevOps Project**
 
 ## **📌 Project Overview**
 The **Automated Inventory Management System** is a cloud-based inventory tracking system designed to automate inventory updates, orders, and stock level management using **AWS CodePipeline, Terraform, and CI/CD practices**.
@@ -21,8 +21,6 @@ The **Automated Inventory Management System** is a cloud-based inventory trackin
 ## **🛠️ Tech Stack & Tools Used**
 ### **Frontend & Backend:**
 - **HTML, CSS, JavaScript** (for UI & functionality)
-- **Node.js / Express.js** (for backend APIs)
-- **MongoDB / MySQL** (for database management)
 
 ### **DevOps & Cloud Services:**
 - **AWS CodePipeline** (CI/CD pipeline)
@@ -32,7 +30,6 @@ The **Automated Inventory Management System** is a cloud-based inventory trackin
 - **GitHub Actions** (Optional CI/CD integration)
 
 ### **Monitoring & Security:**
-- **Prometheus & Grafana** (System monitoring)
 - **AWS CloudWatch** (Application logs)
 - **SonarQube & OWASP ZAP** (Security testing)
 
@@ -42,7 +39,7 @@ The **Automated Inventory Management System** is a cloud-based inventory trackin
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/inventory-management.git
+git clone https://github.com/saatyarth0907/inventory-management.git
 cd inventory-management
 ```
 
@@ -104,9 +101,7 @@ terraform apply  # Deploy infrastructure to AWS
 ---
 
 ## **👨‍💻 Contributors**
-👤 **[Your Name]** - Project Lead  
-👤 **[Team Member 2]** - Backend Developer  
-👤 **[Team Member 3]** - DevOps Engineer  
+👤 **[Satyarth]** - Project Lead  
 
 ---
 
@@ -116,7 +111,5 @@ This project is licensed under the **MIT License**.
 ---
 
 ## **📞 Contact & Support**
-For questions or support, reach out via:
-- 📧 Email: [your-email@example.com]
 - 🔗 GitHub Issues: [https://github.com/your-username/inventory-management/issues]
 
