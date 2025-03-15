@@ -5,10 +5,15 @@ The **Automated Inventory Management System** is a cloud-based inventory trackin
 
 ### **🚀 Key Features**
 ✅ **Automated Inventory Updates** - Dynamically updates stock levels after orders.
+
 ✅ **Order Processing System** - Tracks orders and reduces stock accordingly.
+
 ✅ **CI/CD Pipeline** - Uses AWS CodePipeline for automated deployments.
+
 ✅ **Infrastructure as Code (IaC)** - Terraform is used for cloud infrastructure provisioning.
+
 ✅ **Monitoring & Logging** - Uses Prometheus, Grafana, and AWS CloudWatch for real-time tracking.
+
 ✅ **Security Implementation** - Integrated SonarQube, OWASP ZAP for vulnerability scanning.
 
 ---
